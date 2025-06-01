@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 04be9b11511071f4bb5eb796b68b2d0a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - restartButton: {instanceID: 0}
+  - pauseButton: {instanceID: 0}
+  - muteButton: {instanceID: 0}
+  - buttonRestart: {fileID: -6351731881600203286, guid: aa80d1c00a38ba74aa97cef74dbc01db, type: 3}
+  - buttonPause: {fileID: -7762350047352875558, guid: 75c6b743c2fb6b5449aeb9d35b0a84b4, type: 3}
+  - buttonMute: {fileID: 1658221345906301628, guid: 949527a363941a2488a1e542f48320f7, type: 3}
+  - buttonUnmute: {fileID: 5660104166885646579, guid: d8e36d951aea81f4da662db36b8673a5, type: 3}
+  - pauseMenu: {instanceID: 0}
+  - audioMixer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
